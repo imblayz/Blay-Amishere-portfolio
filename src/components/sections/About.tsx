@@ -36,7 +36,7 @@ export default function About() {
 
               <div className="relative w-48 h-48 rounded-2xl gradient-border overflow-hidden">
                 <Image
-                  src="/profile.jpg"
+                  src="/profile.jpeg"
                   alt="Blay Amishere Kwaw"
                   fill
                   className="object-cover rounded-2xl"
